@@ -44,19 +44,11 @@
 
 <!-- Home -->
 <section class="header" id="header">
-
     <form method="GET"><nav class="navbar navbar-default">
         <div class="container">
+	        <div style="margin-top: -15%;">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index-multipage.html">SIGHT</a>
-            </div> <!-- /.navbar-header -->
+                <a class="navbar-brand" style="border: none;margin-top: -2%;margin-left: -75px;" href="index-multipage.html"><img src="assets/images/logo.png"></a>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -68,6 +60,7 @@
                     <li><a href="contact.html">contact</a></li>
                 </ul> <!-- /.nav -->
             </div><!-- /.navbar-collapse -->
+	        </div>
         </div><!-- /.container -->
         </nav></form>
 		<div class="container">

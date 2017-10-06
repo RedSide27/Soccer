@@ -2,90 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04be1c10-3c1d-487e-bcbd-a38bbf5aee48" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.idea/Soccer.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/about.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/ionicons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/ionicons.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/one-page-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/one-page.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/section.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/service.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/css/sight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/fonts/ionicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/fonts/ionicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/fonts/ionicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/fonts/ionicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/about-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/about-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/about.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/add-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/add-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/add-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/add-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/bleft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/bright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/contact.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/header1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/multipage-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/port-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/portfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/service.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/services.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/showcase.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/sight-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/sight-2(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/sight-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/team-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/images/testimonial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/contact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/js/smoothscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/css/lightbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/images/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/assets/src/js/lightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/index-multipage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/index-one-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Soccer/service.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,6 +11,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Soccer" />
   </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
@@ -102,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="one-page.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/one-page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -127,9 +38,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
               <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,9 +79,9 @@
         <option value="$PROJECT_DIR$/Accueil.php" />
         <option value="$PROJECT_DIR$/assets/src/includes/Accueil.php" />
         <option value="$PROJECT_DIR$/assets/src/includes/index.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/assets/css/one-page.css" />
         <option value="$PROJECT_DIR$/includes/accueil.php" />
+        <option value="$PROJECT_DIR$/assets/css/one-page.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -171,7 +92,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -214,6 +135,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,10 +171,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +179,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../W34" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../battleship" />
     <property name="SearchEverywhereHistoryKey" value=".css&#9;FILE&#9;file://C:/wamp64/www/Soccer/assets/css/one-page.css" />
   </component>
   <component name="RecentsManager">
@@ -377,43 +298,54 @@
       <updated>1507215255318</updated>
       <workItem from="1507215256580" duration="3768000" />
       <workItem from="1507242049462" duration="7295000" />
+      <workItem from="1507299000243" duration="1305000" />
+      <workItem from="1507303919252" duration="2326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11063000" />
+    <option name="totallyTimeSpent" value="14694000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18259023" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13166311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08901919" sideWeight="0.9193206" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08901919" sideWeight="0.08067941" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,6 +359,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/one-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/accueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="48" column="38" lean-forward="false" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/one-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -436,51 +403,42 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-multipage.html" />
-    <entry file="file://$PROJECT_DIR$/index-multipage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/includes/accueil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7665">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/includes/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index-multipage.php" />
+    <entry file="file://$PROJECT_DIR$/assets/src/includes/accueil.php" />
+    <entry file="file://$PROJECT_DIR$/assets/src/includes/index.php" />
     <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/one-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../battleship/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507313406828" expanded="true" signature="4815:4859" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#form#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -488,10 +446,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
