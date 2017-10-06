@@ -13,13 +13,13 @@
 			<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
 		<title>S I G H T</title>
 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/ionicons.min.css">
-		<link rel="stylesheet" href="assets/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/css/owl.theme.css">
-	    <link rel="stylesheet" href="assets/css/main.css">
-	    <link rel="stylesheet" href="assets/css/section.css">
-	    <link rel="stylesheet" href="assets/css/about.css">
+		<link rel="stylesheet" href="../../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../../css/ionicons.min.css">
+		<link rel="stylesheet" href="../../css/owl.carousel.css">
+		<link rel="stylesheet" href="../../css/owl.theme.css">
+	    <link rel="stylesheet" href="../../css/main.css">
+	    <link rel="stylesheet" href="../../css/section.css">
+	    <link rel="stylesheet" href="../../css/about.css">
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 			<!--[if lt IE 9]>
 				<script src="assets/js/html5shiv.js"></script>
@@ -82,10 +82,10 @@
 			<div class="underline purple"></div>	
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
-					<img src="assets/images/about-1.png" alt="about" class="about-img">
+					<img src="../../images/about-1.png" alt="about" class="about-img">
 				</div> <!-- /.col-md-3 -->
 				<div class="col-md-3 col-sm-6">
-					<img src="assets/images/about-2.png" alt="about" class="about-img">
+					<img src="../../images/about-2.png" alt="about" class="about-img">
 				</div> <!-- /.col-md-3 -->
 
 				<div class="col-md-6 col-sm-12">
@@ -138,7 +138,7 @@
 			<div class="row">
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-1.png" alt="team-image" class="team-img">
+						<img src="../../images/team-1.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							David Martin
 						</h4>
@@ -150,7 +150,7 @@
 
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-2.png" alt="team-image" class="team-img">
+						<img src="../../images/team-2.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Reena Scot
 						</h4>
@@ -161,7 +161,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-3.png" alt="team-image" class="team-img">
+						<img src="../../images/team-3.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Paul Smith
 						</h4>
@@ -172,7 +172,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-4.png" alt="team-image" class="team-img">
+						<img src="../../images/team-4.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Jeneflr White
 						</h4>
@@ -183,7 +183,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-5.png" alt="team-image" class="team-img">
+						<img src="../../images/team-5.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							David Martin
 						</h4>
@@ -194,7 +194,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-6.png" alt="team-image" class="team-img">
+						<img src="../../images/team-6.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Reena Scot
 						</h4>
@@ -205,7 +205,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-7.png" alt="team-image" class="team-img">
+						<img src="../../images/team-7.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Paul Smith
 						</h4>
@@ -216,7 +216,7 @@
 				</div> <!-- /.col-md-3 -->
 				<div class="col-sm-3 col-xs-6">
 					<div class="team-item">
-						<img src="assets/images/team-8.png" alt="team-image" class="team-img">
+						<img src="../../images/team-8.png" alt="team-image" class="team-img">
 						<h4 class="team-item-name">
 							Jeneflr White
 						</h4>
@@ -275,28 +275,28 @@
 	<section class="section-wrapper add container">
 		<div class="owl-carousel add-owl">
 				<div class="item">
-					<img src="assets/images/add-1.png" alt="add" class="add-item">
+					<img src="../../images/add-1.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-2.png" alt="add" class="add-item">
+					<img src="../../images/add-2.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-3.png" alt="add" class="add-item">
+					<img src="../../images/add-3.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-4.png" alt="add" class="add-item">
+					<img src="../../images/add-4.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-1.png" alt="add" class="add-item">
+					<img src="../../images/add-1.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-2.png" alt="add" class="add-item">
+					<img src="../../images/add-2.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-3.png" alt="add" class="add-item">
+					<img src="../../images/add-3.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-4.png" alt="add" class="add-item">
+					<img src="../../images/add-4.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 			</div> <!-- /.owl-carousel -->
 	</section>
@@ -346,12 +346,12 @@
 	
 
 
-	<script src="assets/js/jquery-1.11.2.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/contact.js"></script>
+	<script src="../../js/jquery-1.11.2.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/contact.js"></script>
 	<!-- // <script src="assets/js/smoothscroll.js"></script> -->
-	<script src="assets/js/script.js"></script>
+	<script src="../../js/script.js"></script>
 
 
 </body>

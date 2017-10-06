@@ -12,13 +12,13 @@
 			<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
 		<title>S I G H T</title>
 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/ionicons.min.css">
-		<link rel="stylesheet" href="assets/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/css/owl.theme.css">
-	    <link rel="stylesheet" href="assets/css/main.css">
-	    <link rel="stylesheet" href="assets/css/section.css">
-	    <link rel="stylesheet" href="assets/css/portfolio.css">
+		<link rel="stylesheet" href="../../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../../css/ionicons.min.css">
+		<link rel="stylesheet" href="../../css/owl.carousel.css">
+		<link rel="stylesheet" href="../../css/owl.theme.css">
+	    <link rel="stylesheet" href="../../css/main.css">
+	    <link rel="stylesheet" href="../../css/section.css">
+	    <link rel="stylesheet" href="../../css/portfolio.css">
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 			<!--[if lt IE 9]>
 				<script src="assets/js/html5shiv.js"></script>
@@ -85,9 +85,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-1.png" alt="port-1" class="port-item">
+							<img src="../../images/port-1.png" alt="port-1" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -103,9 +103,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-2.png" alt="port-2" class="port-item">
+							<img src="../../images/port-2.png" alt="port-2" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -121,9 +121,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-3.png" alt="port-3" class="port-item">
+							<img src="../../images/port-3.png" alt="port-3" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -139,9 +139,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-4.png" alt="port-4" class="port-item">
+							<img src="../../images/port-4.png" alt="port-4" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -157,9 +157,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-5.png" alt="port-5" class="port-item">
+							<img src="../../images/port-5.png" alt="port-5" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -175,9 +175,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-6.png" alt="port-6" class="port-item">
+							<img src="../../images/port-6.png" alt="port-6" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -239,12 +239,12 @@
 	
 
 
-	<script src="assets/js/jquery-1.11.2.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/contact.js"></script>
+	<script src="../../js/jquery-1.11.2.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/contact.js"></script>
 	<!-- // <script src="assets/js/smoothscroll.js"></script> -->
-	<script src="assets/js/script.js"></script>
+	<script src="../../js/script.js"></script>
 
 
 </body>

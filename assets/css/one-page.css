@@ -1,0 +1,35 @@
+html, body {
+	height:100%;
+}
+.header{
+	background: url('../images/header.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	color: #fff;
+	text-transform: uppercase;
+}
+.header-title {
+	position: absolute;
+	top:43%;
+	margin:0 auto;
+	
+}
+
+.header-title h1, .header-title p {
+	text-align:center;
+	color:#ebebeb;
+	text-shadow: 2px 2px 2px #222;
+	font-size: 1.4em;
+}
+
+.header-title p {
+	font-size:1.1em;
+}
+
+section .container {
+	height:100%;
+	padding: 150px 0 150px 0;
+}

@@ -12,13 +12,13 @@
 			<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
 		<title>S I G H T</title>
 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/ionicons.min.css">
-		<link rel="stylesheet" href="assets/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/css/owl.theme.css">
-	    <link rel="stylesheet" href="assets/css/main.css">
-	    <link rel="stylesheet" href="assets/css/section.css">
-	    <link rel="stylesheet" href="assets/css/service.css">
+		<link rel="stylesheet" href="../../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../../css/ionicons.min.css">
+		<link rel="stylesheet" href="../../css/owl.carousel.css">
+		<link rel="stylesheet" href="../../css/owl.theme.css">
+	    <link rel="stylesheet" href="../../css/main.css">
+	    <link rel="stylesheet" href="../../css/section.css">
+	    <link rel="stylesheet" href="../../css/service.css">
 	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 			<!--[if lt IE 9]>
 				<script src="assets/js/html5shiv.js"></script>
@@ -84,7 +84,7 @@
 				<div class="underline purple"></div>
 				<div class="row">
 					<div class="">
-						<img src="assets/images/service.png" alt="service" class="service-img img-responsive">
+						<img src="../../images/service.png" alt="service" class="service-img img-responsive">
 					</div>
 					<div class="col-md-offset-4 col-md-8 col-sm-12 services">
 						<div class="row">
@@ -302,28 +302,28 @@
 	<section class="section-wrapper add container">
 		<div class="owl-carousel add-owl">
 				<div class="item">
-					<img src="assets/images/add-1.png" alt="add" class="add-item">
+					<img src="../../images/add-1.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-2.png" alt="add" class="add-item">
+					<img src="../../images/add-2.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-3.png" alt="add" class="add-item">
+					<img src="../../images/add-3.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-4.png" alt="add" class="add-item">
+					<img src="../../images/add-4.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-1.png" alt="add" class="add-item">
+					<img src="../../images/add-1.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-2.png" alt="add" class="add-item">
+					<img src="../../images/add-2.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-3.png" alt="add" class="add-item">
+					<img src="../../images/add-3.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 				<div class="item">
-					<img src="assets/images/add-4.png" alt="add" class="add-item">
+					<img src="../../images/add-4.png" alt="add" class="add-item">
 				</div> <!-- /.item -->
 			</div> <!-- /.owl-carousel -->
 	</section>
@@ -373,12 +373,12 @@
 	
 
 
-	<script src="assets/js/jquery-1.11.2.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/contact.js"></script>
+	<script src="../../js/jquery-1.11.2.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/contact.js"></script>
 	<!-- // <script src="assets/js/smoothscroll.js"></script> -->
-	<script src="assets/js/script.js"></script>
+	<script src="../../js/script.js"></script>
 
 
 </body>

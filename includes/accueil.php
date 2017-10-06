@@ -1,159 +1,82 @@
-<!DOCTYPE html>
-<!--[if IE 7 ]><html class="ie ie7 lte9 lte8 lte7" lang="en-US"><![endif]-->
-<!--[if IE 8]><html class="ie ie8 lte9 lte8" lang="en-US">	<![endif]-->
-<!--[if IE 9]><html class="ie ie9 lte9" lang="en-US"><![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html class="noIE" lang="en-US">
-<!--<![endif]-->
-	<head>
-		<!-- meta -->
-			<meta http-equiv="X-UA-Compatible" content="IE=edge">
-			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-			<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
-		<title>S I G H T</title>
-
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/ionicons.min.css">
-		<link rel="stylesheet" href="assets/css/owl.carousel.css">
-		<link rel="stylesheet" href="assets/css/owl.theme.css">
-	    <link rel="stylesheet" href="assets/css/main.css">
-	    <link rel="stylesheet" href="assets/css/one-page.css">
-	    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-			<!--[if lt IE 9]>
-				<script src="assets/js/html5shiv.js"></script>
-				<script src="assets/js/respond.js"></script>
-			<![endif]-->
-
-			<!--[if IE 8]>
-		    	<script src="assets/js/selectivizr.js"></script>
-		    <![endif]-->
-	</head>
-
-<body>
-
-<!-- Home -->
-	<section class="header" id="header">
-		
-		<nav class="navbar navbar-default">
-			<div class="container">
-			<!-- Brand and toggle get grouped for better mobile display -->
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index-multipage.html">SIGHT</a>
-				</div> <!-- /.navbar-header -->
-
-		    <!-- Collect the nav links, forms, and other content for toggling -->
-			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav navbar-right">
-						<li class="active"><a href="index-multipage.html">Accueil</a></li>
-						<li><a href="about.html">À propos</a></li>
-						<li><a href="service.html">services</a></li>
-						<li><a href="portfolio.html">portfolio</a></li>
-						<li><a href="contact.html">contact</a></li>
-					</ul> <!-- /.nav -->
-			    </div><!-- /.navbar-collapse -->
-		  	</div><!-- /.container -->
-		</nav>
-		<div class="container">
-			<div class="header-table">
-				<div class="header-wrapper">
-					<h1 class="header-title">
-						Jaguard de Louiseville
-					</h1>
-					<p class="header-subtitle">
-						Depuis 2001
-					</p>
-				</div> <!-- /.header-wrapper -->
-			</div>
-		</div> <!-- /.container -->
-	</section> <!-- /#header -->
-	
-
 <!-- Our Services -->
-	<section class="service" id="service">
+<section>
 		<div class="container">
-			<div class="_section-wrapper">
-				<h2 class="section-title black">
-					our services
-				</h2> <!-- /.section-title -->
-				<div class="underline purple"></div>
-				<div class="row">
-					<div class="">
-						<img src="assets/images/service.png" alt="service" class="service-img img-responsive">
+			<div class="row">
+				<div class="col-md-4">
+					<img src="assets/images/service.png" style="max-width:300px;" alt="service" class="image-responsive">
+				</div>
+				<div class="col-md-8">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<div class="service-item">
+								<h3 class="section-item-title">
+									refund money
+								</h3>
+								<p class="section-item-detail">
+									The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
+								</p>
+							</div>
+						</div>
 					</div>
-					<div class="col-md-offset-4 col-md-8 col-sm-12 services">
-						<div class="row">
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										free delivery
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										refund money
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										24/7 support
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										summer offer
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										winter offer
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-							<div class="col-xs-6 col-sm-4">
-								<div class="service-item">
-									<h3 class="section-item-title">
-										best gift
-									</h3>
-									<p class="section-item-detail">
-										The Earth was small, light blue, and so touchingly alone, our home that must be so painful.
-									</p>
-								</div> <!-- /.service-item -->
-							</div>
-						</div> <!-- /.row -->
-					</div> <!-- /.col-md-6 -->
-				</div> <!-- /.row -->
-			</div> <!-- /.section-wrapper -->
-		</div> <!-- /.container -->
-	</section> <!-- /.service -->
+				</div>
+			</div>
+		</div>
+	</section>
 
 	
 <!-- Twitter Feed -->
@@ -224,9 +147,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-1.png" alt="port-1" class="port-item">
+							<img src="../../images/port-1.png" alt="port-1" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -242,9 +165,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-2.png" alt="port-2" class="port-item">
+							<img src="../../images/port-2.png" alt="port-2" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -260,9 +183,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-3.png" alt="port-3" class="port-item">
+							<img src="../../images/port-3.png" alt="port-3" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -278,9 +201,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-4.png" alt="port-4" class="port-item">
+							<img src="../../images/port-4.png" alt="port-4" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -296,9 +219,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-5.png" alt="port-5" class="port-item">
+							<img src="../../images/port-5.png" alt="port-5" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -314,9 +237,9 @@
 				<div class="col-sm-4 col-xs-6">
 					<div class="portfolio-item">
 						<div class="portfolio-img">
-							<img src="assets/images/port-6.png" alt="port-6" class="port-item">
+							<img src="../../images/port-6.png" alt="port-6" class="port-item">
 							<div class="portfolio-img-hover">
-								<a href="#"><img src="assets/images/plus.png" alt="plus" class="plus"></a>
+								<a href="#"><img src="../../images/plus.png" alt="plus" class="plus"></a>
 							</div> <!-- /.portfolio-img-hover -->
 						</div> <!-- /.portfolio-img -->
 						<div class="portfolio-item-details">
@@ -396,58 +319,16 @@
 			</div> <!-- /.row -->
 		</div> <!-- /.container -->
 	</section> <!-- /.fun -->
-
-
-<!-- Footer -->
-	<footer>
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-4">
-					<div class="copy">
-						Copyright &copy; 2015 Your Company
-					</div>
-				</div>
-				<div class="col-sm-4 text-center">
-					<div class="social-icon">
-						<a href="#">
-							<div class="icon fb">
-								<i class="ion-social-facebook"></i>
-							</div>
-						</a>
-						<a href="#">
-							<div class="icon twitter">
-								<i class="ion-social-twitter"></i>
-							</div>
-						</a>
-						<a href="#">
-							<div class="icon google">
-								<i class="ion-social-googleplus"></i>
-							</div>
-						</a>
-						<a href="#">
-							<div class="icon rss">
-								<i class="ion-social-rss"></i>
-							</div>
-						</a>
-					</div>		
-				</div>
-				<div class="col-sm-4 text-right">
-					<div class="copy">
-						Theme by <a href="http://www.themewagon.com">themewagon.com</a>. All Rights Reserved
-					</div>
-				</div>
-			</div> <!-- /.row -->
-		</div> <!-- /.container -->
-	</footer>
+</form>
 	
 
 
-	<script src="assets/js/jquery-1.11.2.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/contact.js"></script>
+	<script src="../../js/jquery-1.11.2.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/owl.carousel.min.js"></script>
+    <script src="../../js/contact.js"></script>
 	<!-- // <script src="assets/js/smoothscroll.js"></script> -->
-	<script src="assets/js/script.js"></script>
+	<script src="../../js/script.js"></script>
 
 
 </body>
